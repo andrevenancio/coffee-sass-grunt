@@ -1,6 +1,6 @@
 class Hello
-  speed = 2.0
+  speed: 2.0
 
-  update = =>
+  update: =>
     console.log "this class does nothing"
     null
